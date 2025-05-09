@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ---
 
-### 1. **Install Langchan Dependencies**
+### 1. **Install Langchain Dependencies**
 
 LangChain is an open-source Python framework that simplifies the development of applications using large language models (LLMs). It provides high-level components to chain together LLMs with tools, memory, data sources, and user interfaces.
 
